@@ -10,6 +10,9 @@ number_equations: false
 
 favicon_path: "logo.jpg"
 
+baseurl: "/onlinegroundwaterbook" # the subpath of your site, e.g. /blog. If there is no subpath for your site, use an empty string ""
+url: "https://vibhubatheja.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 #######################################################################################
 # A default configuration that will be loaded for all jupyter books
 # Users are expected to override these values in their own `_config.yml` file.
